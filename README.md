@@ -1,6 +1,6 @@
-<h2 align="left">👋 Hi, I'm Abd Essamed<br></h2>
+<h2 align="left">👋 Hi, I'm Abd Essamed</h2>
 <p>💻 Computer Science student<br>🚀 Passionate about web development & building useful systems</p><br>
-<h2 align="left">🚀 About Me</h2><br>
+<h2 align="left">🚀 About Me</h2>
 <p>🎓 I study Computer Science<br>
 🧠 Interested in UI/UX (IHM) and system design<br>
 ⚡ I enjoy turning ideas into real projects</p><br>
