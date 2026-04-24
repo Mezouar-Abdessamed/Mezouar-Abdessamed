@@ -1,16 +1,16 @@
 <h2 align="left">👋 Hi, I'm Abd Essamed<br><br></h2>
-<p>💻 Computer Science student<br>🚀 Passionate about web development & building useful systems</p><br>br>
+<p>💻 Computer Science student<br>🚀 Passionate about web development & building useful systems</p><br><br>
 <h2 align="left">🚀 About Me</h2><br>
 <p>🎓 I study Computer Science<br>
 🧠 Interested in UI/UX (IHM) and system design<br>
-⚡ I enjoy turning ideas into real projects</p>
+⚡ I enjoy turning ideas into real projects</p><br><br>
 
 ###
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWpnaHRobWY2azlneTV1NWVtZmIwNmI1ZnQ0ZnAwaWl4MGM1ZHg5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
-
+<h2>🛠️ Tech Stack</h2><br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
