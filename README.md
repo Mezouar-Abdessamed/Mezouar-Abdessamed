@@ -10,7 +10,7 @@
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWpnaHRobWY2azlneTV1NWVtZmIwNmI1ZnQ0ZnAwaWl4MGM1ZHg5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
-<h2>🛠️ Tech Stack</h2><br>
+<h2>🛠️ Tech Stack</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
